@@ -1,1 +1,5 @@
-VimCrypt~03!>œÔ¢„X´Û”‹m.GU­àgÇ½'cÆÀ‚Ô´tÃ5WÓØàŒ¸ñ8®UNİ4gÿ]‡»Q+„Cj,ÉÇğˆ^î¸:Èü
+cat main.c
+#include <stdio.h>
+#!/bin/bash
+gcc -E $CFILE -o c
+
