@@ -20,7 +20,12 @@ int main(void)
 	} else if (g > 0 && g < 6)
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, g);
-	} else
+	} else if (g < 0)
+	{
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, g);
+		
+	}
+	else
 	{
 		if (g == 0)
 		{
