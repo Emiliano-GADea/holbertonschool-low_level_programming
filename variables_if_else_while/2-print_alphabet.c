@@ -9,8 +9,6 @@
  */
 int main(void)
 {
-	int nig;
-	{
 		putchar('a');
 		putchar('b');
 		putchar('c');
@@ -38,6 +36,5 @@ int main(void)
 		putchar('y');
 		putchar('z');
 		putchar('\n');
-	}
 return (0);
 }
