@@ -9,7 +9,6 @@
 int main(void)
 {
 	char ne;
-	char le = ' ';
 
 	for (ne = 'a'; ne <= 'z'; ne++)
 	{
