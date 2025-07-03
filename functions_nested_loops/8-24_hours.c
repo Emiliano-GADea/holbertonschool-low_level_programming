@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
- * jack_bauer - Entry point
- * Return: void
+ *jack_bauer - Entry point
+ *Return: void
  */
+
 void jack_bauer(void)
 {
 	int sel;
