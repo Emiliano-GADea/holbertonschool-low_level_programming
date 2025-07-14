@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * reset_to_98 - Entry point 
+ * reset_to_98 - Entry point
  *@n: is an int
  *@*n: is a pointer
  * Return: Always 0 (Success)
